@@ -3,7 +3,7 @@
 ## Tour
 
 ### Title
-tour.name = SCEX Interior
+tour.name = Museum Macan Cave
 
 ## Skin
 
@@ -35,7 +35,7 @@ HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055.html = <div style="text-align:left
 HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.73vmin;font-family:'Bebas Neue Bold';">Lorem ipsum</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.73vmin;font-family:'Bebas Neue Bold';">dolor sit amet</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Bebas Neue Bold';">consectetur adipiscing elit. Morbi bibendum pharetra lorem, accumsan san nulla.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.04vmin;"><BR STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.23vmin;font-family:'Bebas Neue Bold';"><B>Donec feugiat:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV></div>
 HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Bebas Neue Bold';">FLOORPLAN:</SPAN></SPAN></DIV></div>
 HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.26vh;font-family:'Bebas Neue Bold';">FLOORPLAN:</SPAN></SPAN></DIV></div>
-HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:5.14vh;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
 HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.98vmin;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
 HTMLText_EA4506F7_FDA0_5CF1_41C2_BF883C7259BF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
 
@@ -48,19 +48,36 @@ Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2_mobile.text = dolor sit amet, consect
 ## Media
 
 ### Title
-panorama_AA71A541_BDF4_956D_41E6_EA335FAB28F3.label = 54 - Hallway
-panorama_AAED22FB_BDD4_8F1E_41CD_7A542AB69576.label = 54 - Entrance
-panorama_AB8C5A35_BDF4_9F2A_41E6_C317A983FEA9.label = 54 - Living Room
-panorama_AC7EAA1F_B81B_513B_41D5_03F6CD6166BE.label = 54 - Master Bedroom
-panorama_AC7EBB48_B81B_7705_4198_9E6E014832F3.label = 54 - Kids Bedroom
-panorama_AC7F0F87_B81B_2F0B_41E4_378BCCAA1D1D.label = 54 - Kitchen
-panorama_AC7F1D96_B81B_330D_41D2_122F2BBEBD41.label = 54 - TV
-panorama_AC7F781E_B81B_313D_41BE_FF16C4C2C9B1.label = 54 - Bathroom
-panorama_BA1A9946_B7FB_530D_41E4_0F1FB27022F0.label = 36 - TV
-panorama_BB2C52CD_B7FA_D11F_41CB_B36146633163.label = 36 - Hallway
-panorama_BB2C767D_B7FA_D1FF_41B3_CFA870531ABC.label = 36 - Stairs
-panorama_BB2C9CEE_B7FD_511D_41E1_2114E0E2B120.label = 36 - Master Bedroom
-panorama_BB2CB4AC_B7FA_F11D_41E2_CF20C437062E.label = 36 - Top Stairs
-panorama_BB2CE141_B7FD_3307_41E0_19DD39EBAD3F.label = 36 - Kids Bedroom
-panorama_BB2CEFA5_B7FD_2F0F_41DE_DC8ACBBBE405.label = 36 - Bathroom
-panorama_BB2FF84C_B7FB_311D_41CD_F1D5A8E0EABE.label = 36 - Kitchen
+panorama_C6CC149D_D659_145B_41E6_532211366126.label = PHOTO_0264
+panorama_D818F7DA_D659_73D9_41E1_630512486E20.label = PHOTO_0285
+panorama_D83EC2AA_D659_0C79_41CA_0D2A32AF2D28.label = PHOTO_0267
+panorama_D84F800E_D659_0C39_41DC_945AA81CE60C.label = PHOTO_0268
+panorama_D85BBB46_D659_3C29_41E5_45A30E6A87A2.label = PHOTO_0271
+panorama_D8732D78_D659_14D9_41E8_7C11AB0D9ACF.label = PHOTO_0269
+panorama_D8EC39BB_D659_1C5F_41E8_C9F706778286.label = PHOTO_0279
+panorama_DBBDF566_D659_14E9_41C5_42A8226BE725.label = PHOTO_0290
+
+## E-Learning
+
+### Score Name
+score1.label = Score 1
+
+### Question Screen
+quizQuestion_E96C9C08_FB26_7AD5_41A9_F39F526A7319.ok = OK
+
+### Report Screen
+quizScore_E96EFC08_FB26_7AD5_41DE_1660829E4E63.completion = Completed
+quizScore_E96EFC08_FB26_7AD5_41DE_1660829E4E63.downloadCSV = Download .csv
+quizScore_E96EFC08_FB26_7AD5_41DE_1660829E4E63.elapsedTime = Time
+quizScore_E96EFC08_FB26_7AD5_41DE_1660829E4E63.items = Items Found
+quizScore_E96EFC08_FB26_7AD5_41DE_1660829E4E63.questions = Questions
+quizScore_E96EFC08_FB26_7AD5_41DE_1660829E4E63.questionsCorrect = Correct
+quizScore_E96EFC08_FB26_7AD5_41DE_1660829E4E63.questionsIncorrect = Incorrect
+quizScore_E96EFC08_FB26_7AD5_41DE_1660829E4E63.repeat = Repeat
+quizScore_E96EFC08_FB26_7AD5_41DE_1660829E4E63.submitToLMS = Submit
+quizScore_E96EFC08_FB26_7AD5_41DE_1660829E4E63.title = - SCORE -
+
+### Timeout Screen
+quizTimeout_E96DBC08_FB26_7AD5_41B5_46518E6014AC.repeat = Repeat
+quizTimeout_E96DBC08_FB26_7AD5_41B5_46518E6014AC.score = View Score
+quizTimeout_E96DBC08_FB26_7AD5_41B5_46518E6014AC.title = - TIMEOUT -
