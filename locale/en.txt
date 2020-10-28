@@ -62,13 +62,16 @@ video_7B973744_6DED_5A1C_41D6_013140CF4498.label = 2020-10-21 17-36-03
 ## Hotspot
 
 ### Tooltip
+HotspotPanoramaOverlayArea_79618F5A_6E2D_6A34_41CE_DBF6864CC7C1.toolTip = 3D Vista vr only
+HotspotPanoramaOverlayArea_7B600BF8_6E2F_29F4_41B6_C974A715D584.toolTip = VR Only
 HotspotPanoramaOverlayArea_7E055CAB_6DF5_2E14_41D2_0D0FB4211CCF.toolTip = 3D Vista
-HotspotPanoramaOverlayArea_7ECB773D_6DF7_5A6C_41C2_C79BC4D66D80.toolTip = PS5
+HotspotPanoramaOverlayArea_7ECB773D_6DF7_5A6C_41C2_C79BC4D66D80.toolTip = VR Only
 
 ## Action
 
 ### URL
 PopupWebFrameBehaviour_785F7650_6DF2_DA34_41C3_99DB13E33B58.url = //www.youtube.com/embed/aSqtj5AwMAQ
+PopupWebFrameBehaviour_7B7B5BF9_6E2F_29F4_41B2_80F834B461E0.url = //www.youtube.com/embed/aSqtj5AwMAQ
 
 ## E-Learning
 
